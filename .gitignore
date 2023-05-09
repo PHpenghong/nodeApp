@@ -1,0 +1,12 @@
+.DS_Store
+.vscode
+.idea
+dist
+# npm-debug.log
+# yarn-error.log
+node_modules
+log
+# dbConnection.js
+pnpm-lock.yaml
+package-lock.json
+yarn.lock
